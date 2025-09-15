@@ -1,1 +1,1 @@
-# Rubix-Cube-Solver
+A Python-based Rubik’s Cube solver with GUI. Supports beginner’s method with step-by-step solving (white cross, corners, layers) and fast optimal solving using the Kociemba algorithm. Features cube visualization, scrambling, and interactive move playback for learning and practice.
